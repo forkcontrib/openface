@@ -4,3 +4,6 @@ twisted == 15.2.1
 scipy >= 0.13, < 0.17
 scikit-learn >= 0.17, < 0.18
 protobuf >= 2.5, < 2.7
+opencv-python
+matplotlib==2.0.0
+dlib==19.3.1
